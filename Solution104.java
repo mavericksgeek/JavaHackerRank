@@ -34,7 +34,7 @@ Int: 42
 */
 import java.util.Scanner;
 
-public class Solution {
+public class Solution104 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
