@@ -34,7 +34,7 @@ is the 16th character, and each integer that was less than  digits now has 3 lea
 */
 import java.util.Scanner;
 
-public class Solution {
+public class Solution105 {
 
     public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
